@@ -96,7 +96,7 @@ lib/
 
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dev-Muhammad-Faizan/vision_aid_glasses_app.git
 ```
 
 2. **Navigate to the project directory**:
