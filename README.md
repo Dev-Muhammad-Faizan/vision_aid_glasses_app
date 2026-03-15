@@ -24,7 +24,7 @@ A sophisticated Flutter-based companion application for Vision Aid Glasses. This
 
 ## 📸 Screenshots
 
-> /screenshots (Placeholders for future implementation)
+> /screenshots 
 
 |        Home Screen        |         Camera Feed         |          Dashboard Hub          |
 |:-------------------------:|:---------------------------:|:-------------------------------:|
